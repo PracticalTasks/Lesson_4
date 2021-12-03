@@ -5,6 +5,7 @@
 #include<deque>
 
 using namespace std;
+//
 //Task 1
 template<typename T>
 void insert_sorted(vector<T>& vec, T val)
